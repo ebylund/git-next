@@ -45,10 +45,13 @@ hello world from ./src/hello.ts!
 
   static flags = {
     help: flags.help({char: 'h'}),
-    // flag with a value (-n, --name=VALUE)
     name: flags.string({char: 'n', description: 'name to print'}),
-    // flag with no value (-f, --force)
     force: flags.boolean({char: 'f'}),
+    release: flags.enum({
+      options: ['MAJOR', 'PRE-MAJOR'],
+      char: 'r',
+      default: 'PATCH',
+    })
   }
 
   static args = [{name: 'file'}]
