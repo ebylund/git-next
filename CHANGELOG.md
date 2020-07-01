@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0](https://github.com/ebylund/git-next/compare/v0.2.2...v1.0.0) (2020-07-01)
+
+
+### Features
+
+* **flags:** print release election ([13315b0](https://github.com/ebylund/git-next/commit/13315b024e5b610b31552af5478f3f190db792e1))
+
+
+### Bug Fixes
+
+* change quotes ([5a9ef0f](https://github.com/ebylund/git-next/commit/5a9ef0f4db1f3d6aca151670589b95d0f5fe390c))
+
 ### [0.2.2](https://github.com/ebylund/git-next/compare/v0.2.1...v0.2.2) (2020-07-01)
 
 ### [0.2.1](https://github.com/ebylund/git-next/compare/v0.2.0...v0.2.1) (2020-07-01)
