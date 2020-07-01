@@ -61,6 +61,6 @@ hello world from ./src/hello.ts!
     const name = flags.name ?? 'world'
 
     const nextTag = await nextProposedTag()
-    this.log(`next proposed tag: ${nextTag?.toString()}`)
+    this.log(`next proposed tag: ${nextTag?.toString()} with ${flags.release}`)
   }
 }
