@@ -48,7 +48,7 @@ hello world from ./src/hello.ts!
     name: flags.string({char: 'n', description: 'name to print'}),
     force: flags.boolean({char: 'f'}),
     release: flags.enum({
-      options: ["MAJOR", "PRE_MAJOR", "MINOR", "PRE_MINOR", "PATCH", "PRE_PATCH"],
+      options: ['MAJOR', 'PRE_MAJOR', 'MINOR', 'PRE_MINOR', 'PATCH', 'PRE_PATCH'],
       char: 'r',
       default: 'PATCH',
     })
