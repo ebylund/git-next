@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/ebylund/git-next/compare/v0.2.0...v0.2.1) (2020-07-01)
+
+
+### Features
+
+* **flag:** add minor release flags ([7eeac7a](https://github.com/ebylund/git-next/commit/7eeac7ab722f79acf24b1ad5ca0963c49235727f))
+* **flag:** add patch release flags ([44f26cd](https://github.com/ebylund/git-next/commit/44f26cd718e559013fdcce3fd14d926950f448f6))
+
 ## [0.2.0](https://github.com/ebylund/git-next/compare/v0.1.1...v0.2.0) (2020-07-01)
 
 
