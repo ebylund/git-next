@@ -19,7 +19,7 @@ $ npm install -g git-next
 $ git-next COMMAND
 running command...
 $ git-next (-v|--version|version)
-git-next/0.1.0 darwin-x64 node-v12.16.1
+git-next/0.1.1 darwin-x64 node-v12.16.1
 $ git-next --help [COMMAND]
 USAGE
   $ git-next COMMAND
@@ -49,7 +49,7 @@ EXAMPLE
   hello world from ./src/hello.ts!
 ```
 
-_See code: [src/commands/hello.ts](https://github.com/ebylund/git-next/blob/v0.1.0/src/commands/hello.ts)_
+_See code: [src/commands/hello.ts](https://github.com/ebylund/git-next/blob/v0.1.1/src/commands/hello.ts)_
 
 ## `git-next help [COMMAND]`
 
